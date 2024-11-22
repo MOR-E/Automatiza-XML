@@ -1,0 +1,2 @@
+Executavel que separa automaticamente os XML de entrada para os XML de saídas
+informe os endereços exemplo C:\Users\Quinze002\Desktop\Suporte\IMG SOMMUS das pastas de autorizadas e canceladas depois que você crialas e colar elas e o executavel fará o resto
